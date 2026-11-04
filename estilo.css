@@ -7,3 +7,9 @@ body {
 h1 {
   color: #0257e0;
 }
+
+footer {
+  margin-top: 40px;
+  color: #666666;
+  font-size: 0.9em;
+}
