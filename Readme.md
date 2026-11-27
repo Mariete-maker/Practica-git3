@@ -4,3 +4,4 @@ Página de práctica para aprender Git y GitHub.
 Mario Parla
 
 ### Cambios en archivo de texto
+Cambios hechos desde la copia
